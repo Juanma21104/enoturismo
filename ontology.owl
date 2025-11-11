@@ -415,8 +415,8 @@
 
 
     <owl:ObjectProperty rdf:about="https://ontologia.segittur.es/turismo/def/core#offeredBy">
-        <rdfs:domain rdf:resource="https://ontologia.segittur.es/turismo/def/core#EventOrganisationCompany"/>
-        <rdfs:range rdf:resource="https://ontologia.segittur.es/turismo/def/core#Event"/>
+        <rdfs:domain rdf:resource="https://ontologia.segittur.es/turismo/def/core#Event"/>
+        <rdfs:range rdf:resource="https://ontologia.segittur.es/turismo/def/core#EventOrganisationCompany"/>
         <rdfs:label>offered by</rdfs:label>
     </owl:ObjectProperty>
     
